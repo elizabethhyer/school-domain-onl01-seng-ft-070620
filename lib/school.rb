@@ -23,5 +23,3 @@ class School
       @roster[grade] << "grade"
     end 
 end 
-
-school = School.new("Bayside High School")
