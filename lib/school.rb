@@ -39,7 +39,7 @@ class School
      # grade.sort
       #name.sort
    # end 
-   @roster.grade.values.sort
+   @roster.values.sort
   end 
 end 
 
