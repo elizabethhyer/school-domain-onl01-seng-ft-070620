@@ -39,6 +39,7 @@ class School
       grade.sort
       name.sort
    end 
+   
   end 
 end 
 
