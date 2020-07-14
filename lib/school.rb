@@ -32,7 +32,6 @@ class School
   
   def grade(grade)
     @roster[grade]
-    @roster.sort
   end 
 end 
 
