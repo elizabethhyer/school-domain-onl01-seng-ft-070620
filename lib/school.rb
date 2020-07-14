@@ -39,7 +39,6 @@ class School
       grade.sort
       name.sort
    end 
-   @roster
   end 
 end 
 
