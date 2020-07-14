@@ -19,8 +19,8 @@ class School
   
   def add_student(name, grade)
     if @roster[grade] == nil
-      @roster[:student] << "name, grade"
-
+      @roster[grade] << "grade"
+      
 end 
 
 school = School.new("Bayside High School")
