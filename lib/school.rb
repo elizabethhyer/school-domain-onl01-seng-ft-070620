@@ -16,6 +16,9 @@ class School
   def roster = (roster)
     @roster = roster
   end 
+  
+  def add_student(name, grade)
+    if @roster[grade] == nil
 
 end 
 
