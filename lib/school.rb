@@ -39,6 +39,7 @@ class School
     @roster.collect do |grade, name|
     new_roster[:grade] = name.sort
    end 
+  new_roster
   end 
 end 
 
